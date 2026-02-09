@@ -1,0 +1,31 @@
+example_id,policy_text,retrieved_clauses,model_verdict,model_confidence,actual_verdict,actual__confidence,correction_reason
+481_fredericknewspost.com_34,"The Frederick News-Post and its owner, Randall Family, LLC (collectively, \",Art.5 (Principles),PASS,0.8,RISK,0.5,
+1694_lids.com_112,Privacy Policy,Art.5 (Principles),PASS,0.8,FAIL,0.4,insufficient detail
+686_military.com_168,Privacy Policy,Art.5 (Principles),PASS,0.8,FAIL,0.4,insufficient detail
+1636_sidearmsports.com_257,SIDEARM Sports Privacy Policy,Art.5 (Principles),PASS,0.8,FAIL,0.4,insufficient detail
+1636_sidearmsports.com_260,SIDEARM Sports Privacy Policy,Art.5 (Principles),PASS,0.8,FAIL,0.4,insufficient detail
+1468_rockstargames.com_40,"Last updated on October 1, 2013",Art.5 (Principles),PASS,0.9,RISK,0.5,
+135_instagram.com_195,Privacy Policy,Art.5 (Principles),PASS,0.8,FAIL,0.4,insufficient detail
+21_imdb.com_57,IMDb Privacy Notice,Art.5 (Principles),PASS,0.8,FAIL,0.4,insufficient detail
+919_uh.edu_21,University of Houston Privacy Policy The Division of Information Technology maintains the University of Houston Web site as a public service. The following is the privacy policy for this site (all pages - but not all links - starting with www.uh.edu):,Art.5 (Principles),PASS,0.9,RISK,0.5,
+1099_enthusiastnetwork.com_44,"EN: The Enthusiast Network (TEN or We or we) is strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. This Privacy Policy discloses what information we gather, how we use it, to whom we disclose personal information and other information you have provided, and how to correct or change personal information that you have provided to us. This Privacy Policy applies to TEN and all of its parent companies, subsidiaries, and affiliates. We urge you to read the complete Privacy Policy set forth below, as well as our Terms and Conditions of Use, and contact us if you have any questions.",Art.5 (Principles),RISK,0.5,RISK,0.5,
+1028_redorbit.com_61,"RedOrbit, Inc. Privacy Statement",Art.5 (Principles),PASS,0.8,RISK,0.5,
+1034_aol.com_4,"AOL Privacy Policy Last updated: June 23, 2015",Art.5 (Principles),PASS,0.8,RISK,0.5,
+32_voxmedia.com_100,Vox Media Privacy Policy,Art.5 (Principles),PASS,0.8,FAIL,0.4,insufficient detail
+1070_wnep.com_141,"Tribune Company is a diverse multimedia company and, together with its Affiliates, operates daily newspapers, television stations, a digital broadcast program network, and news, entertainment, and information websites. In this Privacy Policy, Affiliates refers to our subsidiaries and entities that Tribune or its subsidiaries operate or have an ownership interest in.",Art.5 (Principles),PASS,0.9,RISK,0.5,
+928_stlouisfed.org_44,Privacy Policy This is the web site of the Federal Reserve Bank of St. Louis. The Bank respects your privacy.,Art.5 (Principles),PASS,0.9,RISK,0.5,
+1099_enthusiastnetwork.com_214,"EN: The Enthusiast Network (TEN or We or we) is strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. This Privacy Policy discloses what information we gather, how we use it, to whom we disclose personal information and other information you have provided, and how to correct or change personal information that you have provided to us. This Privacy Policy applies to TEN and all of its parent companies, subsidiaries, and affiliates. We urge you to read the complete Privacy Policy set forth below, as well as our Terms and Conditions of Use, and contact us if you have any questions.",Art.5 (Principles),RISK,0.5,RISK,0.5,
+21_imdb.com_73,IMDb Privacy Notice,Art.5 (Principles),PASS,0.8,FAIL,0.4,insufficient detail
+652_randomhouse.com_160,"Privacy Policy Effective Date of Privacy Policy: February 9, 2015",Art.5 (Principles),PASS,0.8,RISK,0.5,
+348_walmart.com_204,Walmart Privacy Policy Last Updated: March 2015,Art.5 (Principles),RISK,0.5,RISK,0.5,
+1713_latinpost.com_510,"Privacy Policy Last Modified: March 25, 2013",Art.5 (Principles),PASS,0.9,RISK,0.5,
+541_ifsa-butler.org_36,IFSA-Butler is committed to respecting your privacy and protecting the information we receive from you. This policy is intended to outline the information we collect from users who visit and submit applications to our website and how we use and disclose that information.,Art. 13 (Information to be provided); Art.5 (purpose limitation),PASS,0.9,RISK,0.5,
+1539_geocaching.com_189,"Last updated: March 25, 2015",Art.5 (Principles),PASS,0.8,FAIL,0.4,insufficient detail
+940_internetbrands.com_464,Internet Brands Privacy Highlights Privacy Policy Cookie Policy Privacy Contact,Art.5 (Principles),RISK,0.5,RISK,0.5,
+348_walmart.com_197,Walmart Privacy Policy Last Updated: March 2015,Art.5 (Principles),RISK,0.5,RISK,0.5,
+348_walmart.com_195,Walmart Privacy Policy Last Updated: March 2015,Art.5 (Principles),RISK,0.5,RISK,0.5,
+202_foodallergy.org_36,Privacy Policy,Art.5 (Principles),PASS,0.8,FAIL,0.4,insufficient detail
+1618_sltrib.com_291,"PRIVACY POLICY This policy describes the privacy practices of MediaNews Group, Inc., and MediaNews Group Interactive, Inc. and MediaNews Group affiliates, collectively referred to herein as \",Art.5 (Principles),PASS,0.9,RISK,0.5,
+135_instagram.com_266,Privacy Policy,Art.5 (Principles),PASS,0.8,FAIL,0.4,insufficient detail
+1034_aol.com_290,"AOL Privacy Policy Last updated: June 23, 2015",Art.5 (Principles),PASS,0.8,RISK,0.5,
+82_sheknows.com_239,Privacy Policy This privacy policy (this \,Art.5 (Principles),PASS,1.0,RISK,0.5,
